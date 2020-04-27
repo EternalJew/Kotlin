@@ -1,2 +1,2 @@
 # Kotlin
-![](![](https://i.ibb.co/s2nrBcy/photo5393279717823589672.jpg))
+![](https://i.ibb.co/6Jxy8vy/Kotlin-Blog.png)

@@ -13,6 +13,7 @@ while (xp<xk){
     println("Y=$y")
 }
 }
+//Суть цього завдання зациклити функцію з використанням двох операторів "While"
 fun SecondTask(){
 var y:Double = 0.0
     while (y<=7){

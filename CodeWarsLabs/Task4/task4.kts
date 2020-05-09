@@ -26,3 +26,11 @@ fun highAndLow() {
 fun main(args: Array<String>) {
 highAndLow()
 }
+///////////////////////////////////////////////////////////
+//Правильний варіант
+//fun highAndLow(numbers: String): String {
+  //val nums = numbers.split(" ").map { it.toInt() }
+  //val max = nums.max()
+  //val min = nums.min()
+ // return "$max $min"
+//}

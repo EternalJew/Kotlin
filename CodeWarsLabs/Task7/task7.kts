@@ -12,5 +12,5 @@
     }
 
     fun main(args: Array<String>) {
-        findShort("lets talk about Java the best language")
+        findShort("lets talk about Kotlin the best language")
 }
